@@ -21,4 +21,4 @@ document.querySelector("#app").innerHTML = `
 const element = document.querySelector(".card");
 
 // environmentComponent(element);
-callbacksComponent();
+callbacksComponent(element);
